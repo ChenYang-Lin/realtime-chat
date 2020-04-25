@@ -1,5 +1,7 @@
 //make connection
-var socket = io.connect('http://localhost:3000');
+var socket = io.connect('http://chat-app-yangge-76501.herokuapp.com');
+//var socket = io.connect('http://localhost:3000');
+//var socket = socketIO(server);
 
 
 //qurery DOM
